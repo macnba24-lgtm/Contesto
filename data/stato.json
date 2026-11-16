@@ -1,0 +1,485 @@
+{
+ "aggiornato": 1794825597636,
+ "fonti": [
+  {
+   "nome": "ANSA",
+   "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
+   "ok": true,
+   "letti": 45,
+   "nuovi": 45,
+   "errore": null
+  },
+  {
+   "nome": "ANSA",
+   "url": "https://www.ansa.it/sito/ansait_rss.xml",
+   "ok": true,
+   "letti": 29,
+   "nuovi": 26,
+   "errore": null
+  },
+  {
+   "nome": "Rai News",
+   "url": "https://www.rainews.it/rss/esteri",
+   "ok": true,
+   "letti": 41,
+   "nuovi": 41,
+   "errore": null
+  },
+  {
+   "nome": "la Repubblica",
+   "url": "https://www.repubblica.it/rss/esteri/rss2.0.xml",
+   "ok": true,
+   "letti": 25,
+   "nuovi": 25,
+   "errore": null
+  },
+  {
+   "nome": "Corriere della Sera",
+   "url": "https://xml2.corriereobjects.it/rss/esteri.xml",
+   "ok": true,
+   "letti": 4,
+   "nuovi": 0,
+   "errore": null
+  },
+  {
+   "nome": "Il Sole 24 Ore",
+   "url": "https://www.ilsole24ore.com/rss/mondo.xml",
+   "ok": true,
+   "letti": 8,
+   "nuovi": 8,
+   "errore": null
+  },
+  {
+   "nome": "Il Fatto Quotidiano",
+   "url": "https://www.ilfattoquotidiano.it/feed/",
+   "ok": true,
+   "letti": 25,
+   "nuovi": 25,
+   "errore": null
+  },
+  {
+   "nome": "Il Post",
+   "url": "https://www.ilpost.it/feed/",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "nome": "AGI",
+   "url": "https://www.agi.it/estero/rss",
+   "ok": true,
+   "letti": 20,
+   "nuovi": 20,
+   "errore": null
+  },
+  {
+   "nome": "TGcom24",
+   "url": "https://www.tgcom24.mediaset.it/rss/mondo.xml",
+   "ok": true,
+   "letti": 30,
+   "nuovi": 30,
+   "errore": null
+  },
+  {
+   "nome": "Il Giornale",
+   "url": "https://www.ilgiornale.it/feed.xml",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "nome": "Open",
+   "url": "https://www.open.online/feed/",
+   "ok": true,
+   "letti": 12,
+   "nuovi": 12,
+   "errore": null
+  },
+  {
+   "nome": "Fanpage",
+   "url": "https://www.fanpage.it/feed/",
+   "ok": true,
+   "letti": 40,
+   "nuovi": 40,
+   "errore": null
+  },
+  {
+   "nome": "Internazionale",
+   "url": "https://www.internazionale.it/sitemaps/rss.xml",
+   "ok": true,
+   "letti": 2,
+   "nuovi": 2,
+   "errore": null
+  },
+  {
+   "nome": "Avvenire",
+   "url": "https://www.avvenire.it/rss",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 404: Page not found"
+  },
+  {
+   "nome": "Domani",
+   "url": "https://www.editorialedomani.it/rss",
+   "ok": true,
+   "letti": 100,
+   "nuovi": 100,
+   "errore": null
+  },
+  {
+   "nome": "BBC News",
+   "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+   "ok": true,
+   "letti": 23,
+   "nuovi": 23,
+   "errore": null
+  },
+  {
+   "nome": "The Guardian",
+   "url": "https://www.theguardian.com/world/rss",
+   "ok": true,
+   "letti": 45,
+   "nuovi": 40,
+   "errore": null
+  },
+  {
+   "nome": "New York Times",
+   "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+   "ok": true,
+   "letti": 57,
+   "nuovi": 57,
+   "errore": null
+  },
+  {
+   "nome": "Washington Post",
+   "url": "https://feeds.washingtonpost.com/rss/world",
+   "ok": true,
+   "letti": 8,
+   "nuovi": 8,
+   "errore": null
+  },
+  {
+   "nome": "NPR",
+   "url": "https://feeds.npr.org/1004/rss.xml",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "CNN",
+   "url": "http://rss.cnn.com/rss/edition_world.rss",
+   "ok": true,
+   "letti": 29,
+   "nuovi": 6,
+   "errore": null
+  },
+  {
+   "nome": "Fox News",
+   "url": "https://moxie.foxnews.com/google-publisher/world.xml",
+   "ok": true,
+   "letti": 25,
+   "nuovi": 23,
+   "errore": null
+  },
+  {
+   "nome": "Al Jazeera",
+   "url": "https://www.aljazeera.com/xml/rss/all.xml",
+   "ok": true,
+   "letti": 25,
+   "nuovi": 25,
+   "errore": null
+  },
+  {
+   "nome": "DW",
+   "url": "https://rss.dw.com/rdf/rss-en-all",
+   "ok": true,
+   "letti": 129,
+   "nuovi": 79,
+   "errore": null
+  },
+  {
+   "nome": "France 24",
+   "url": "https://www.france24.com/en/rss",
+   "ok": true,
+   "letti": 24,
+   "nuovi": 23,
+   "errore": null
+  },
+  {
+   "nome": "Euronews",
+   "url": "https://www.euronews.com/rss",
+   "ok": true,
+   "letti": 50,
+   "nuovi": 50,
+   "errore": null
+  },
+  {
+   "nome": "Politico Europe",
+   "url": "https://www.politico.eu/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "Middle East Eye",
+   "url": "https://www.middleeasteye.net/rss",
+   "ok": true,
+   "letti": 20,
+   "nuovi": 20,
+   "errore": null
+  },
+  {
+   "nome": "Times of Israel",
+   "url": "https://www.timesofisrael.com/feed/",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "nome": "Kyiv Independent",
+   "url": "https://kyivindependent.com/news-archive/rss/",
+   "ok": true,
+   "letti": 15,
+   "nuovi": 15,
+   "errore": null
+  },
+  {
+   "nome": "Times of India",
+   "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+   "ok": true,
+   "letti": 20,
+   "nuovi": 20,
+   "errore": null
+  },
+  {
+   "nome": "South China Morning Post",
+   "url": "https://www.scmp.com/rss/91/feed",
+   "ok": true,
+   "letti": 50,
+   "nuovi": 50,
+   "errore": null
+  },
+  {
+   "nome": "ABC News Australia",
+   "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
+   "ok": true,
+   "letti": 25,
+   "nuovi": 25,
+   "errore": null
+  },
+  {
+   "nome": "TASS",
+   "url": "https://tass.com/rss/v2.xml",
+   "ok": true,
+   "letti": 88,
+   "nuovi": 88,
+   "errore": null
+  },
+  {
+   "nome": "CGTN",
+   "url": "https://www.cgtn.com/subscribe/rss/section/world.xml",
+   "ok": true,
+   "letti": 50,
+   "nuovi": 50,
+   "errore": null
+  },
+  {
+   "nome": "Press TV",
+   "url": "https://www.presstv.ir/rss.xml",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid f"
+  },
+  {
+   "nome": "Anadolu",
+   "url": "https://www.aa.com.tr/en/rss/default?cat=world",
+   "ok": true,
+   "letti": 30,
+   "nuovi": 30,
+   "errore": null
+  },
+  {
+   "nome": "Black Agenda Report",
+   "url": "https://blackagendareport.com/rss.xml",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 3,
+   "errore": null
+  },
+  {
+   "nome": "Venezuelanalysis",
+   "url": "https://venezuelanalysis.com/feed/",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "nome": "Orinoco Tribune",
+   "url": "https://orinocotribune.com/feed/",
+   "ok": true,
+   "letti": 12,
+   "nuovi": 12,
+   "errore": null
+  },
+  {
+   "nome": "Peoples Dispatch",
+   "url": "https://peoplesdispatch.org/feed/",
+   "ok": true,
+   "letti": 12,
+   "nuovi": 0,
+   "errore": null
+  },
+  {
+   "nome": "Breakthrough News",
+   "url": "https://breakthroughnews.org/feed/",
+   "ok": true,
+   "letti": 8,
+   "nuovi": 8,
+   "errore": null
+  },
+  {
+   "nome": "MR Online",
+   "url": "https://mronline.org/feed/",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "ParseError: syntax error: line 1, column 0"
+  },
+  {
+   "nome": "The Grayzone",
+   "url": "https://thegrayzone.com/feed/",
+   "ok": true,
+   "letti": 12,
+   "nuovi": 2,
+   "errore": null
+  },
+  {
+   "nome": "MintPress News",
+   "url": "https://www.mintpressnews.com/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 1,
+   "errore": null
+  },
+  {
+   "nome": "Consortium News",
+   "url": "https://consortiumnews.com/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "The Intercept",
+   "url": "https://theintercept.com/feed/?lang=en",
+   "ok": true,
+   "letti": 20,
+   "nuovi": 20,
+   "errore": null
+  },
+  {
+   "nome": "Drop Site News",
+   "url": "https://www.dropsitenews.com/feed",
+   "ok": true,
+   "letti": 20,
+   "nuovi": 11,
+   "errore": null
+  },
+  {
+   "nome": "Declassified UK",
+   "url": "https://www.declassifieduk.org/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 1,
+   "errore": null
+  },
+  {
+   "nome": "Electronic Intifada",
+   "url": "https://electronicintifada.net/rss.xml",
+   "ok": false,
+   "letti": 0,
+   "nuovi": 0,
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+   "nome": "Democracy Now!",
+   "url": "https://www.democracynow.org/democracynow.rss",
+   "ok": true,
+   "letti": 38,
+   "nuovi": 21,
+   "errore": null
+  },
+  {
+   "nome": "Common Dreams",
+   "url": "https://www.commondreams.org/feeds/feed.rss",
+   "ok": true,
+   "letti": 30,
+   "nuovi": 9,
+   "errore": null
+  },
+  {
+   "nome": "Responsible Statecraft",
+   "url": "https://responsiblestatecraft.org/feed/",
+   "ok": true,
+   "letti": 30,
+   "nuovi": 16,
+   "errore": null
+  },
+  {
+   "nome": "Antiwar.com",
+   "url": "https://news.antiwar.com/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "The American Conservative",
+   "url": "https://www.theamericanconservative.com/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "il manifesto",
+   "url": "https://ilmanifesto.it/feed",
+   "ok": true,
+   "letti": 50,
+   "nuovi": 50,
+   "errore": null
+  },
+  {
+   "nome": "Pagine Esteri",
+   "url": "https://pagineesteri.it/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "L'Indipendente",
+   "url": "https://www.lindipendente.online/feed/",
+   "ok": true,
+   "letti": 10,
+   "nuovi": 10,
+   "errore": null
+  },
+  {
+   "nome": "L'AntiDiplomatico",
+   "url": "https://www.lantidiplomatico.it/rss.php",
+   "ok": true,
+   "letti": 125,
+   "nuovi": 125,
+   "errore": null
+  }
+ ]
+}
