@@ -1,12 +1,12 @@
 {
- "aggiornato": 1795370483565,
+ "aggiornato": 1795390448655,
  "fonti": [
   {
    "nome": "ANSA",
    "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
    "ok": true,
-   "letti": 17,
-   "nuovi": 2,
+   "letti": 18,
+   "nuovi": 14,
    "errore": null
   },
   {
@@ -14,7 +14,7 @@
    "url": "https://www.ansa.it/sito/ansait_rss.xml",
    "ok": true,
    "letti": 28,
-   "nuovi": 25,
+   "nuovi": 15,
    "errore": null
   },
   {
@@ -22,7 +22,7 @@
    "url": "https://www.rainews.it/rss/esteri",
    "ok": true,
    "letti": 41,
-   "nuovi": 7,
+   "nuovi": 4,
    "errore": null
   },
   {
@@ -30,7 +30,7 @@
    "url": "https://www.repubblica.it/rss/esteri/rss2.0.xml",
    "ok": true,
    "letti": 25,
-   "nuovi": 4,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -46,7 +46,7 @@
    "url": "https://www.ilsole24ore.com/rss/mondo.xml",
    "ok": true,
    "letti": 10,
-   "nuovi": 3,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -54,7 +54,7 @@
    "url": "https://www.ilfattoquotidiano.it/feed/",
    "ok": true,
    "letti": 25,
-   "nuovi": 25,
+   "nuovi": 4,
    "errore": null
   },
   {
@@ -78,7 +78,7 @@
    "url": "https://www.tgcom24.mediaset.it/rss/mondo.xml",
    "ok": true,
    "letti": 30,
-   "nuovi": 14,
+   "nuovi": 3,
    "errore": null
   },
   {
@@ -94,7 +94,7 @@
    "url": "https://www.open.online/feed/",
    "ok": true,
    "letti": 12,
-   "nuovi": 11,
+   "nuovi": 4,
    "errore": null
   },
   {
@@ -102,7 +102,7 @@
    "url": "https://www.fanpage.it/feed/",
    "ok": true,
    "letti": 40,
-   "nuovi": 40,
+   "nuovi": 18,
    "errore": null
   },
   {
@@ -126,15 +126,15 @@
    "url": "https://www.editorialedomani.it/rss",
    "ok": true,
    "letti": 100,
-   "nuovi": 13,
+   "nuovi": 9,
    "errore": null
   },
   {
    "nome": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "letti": 29,
-   "nuovi": 1,
+   "letti": 35,
+   "nuovi": 6,
    "errore": null
   },
   {
@@ -142,7 +142,7 @@
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
    "letti": 45,
-   "nuovi": 18,
+   "nuovi": 14,
    "errore": null
   },
   {
@@ -150,7 +150,7 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "ok": true,
    "letti": 52,
-   "nuovi": 1,
+   "nuovi": 2,
    "errore": null
   },
   {
@@ -158,7 +158,7 @@
    "url": "https://feeds.washingtonpost.com/rss/world",
    "ok": true,
    "letti": 13,
-   "nuovi": 4,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -190,7 +190,7 @@
    "url": "https://www.aljazeera.com/xml/rss/all.xml",
    "ok": true,
    "letti": 25,
-   "nuovi": 25,
+   "nuovi": 19,
    "errore": null
   },
   {
@@ -198,7 +198,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "ok": true,
    "letti": 140,
-   "nuovi": 9,
+   "nuovi": 7,
    "errore": null
   },
   {
@@ -206,7 +206,7 @@
    "url": "https://www.france24.com/en/rss",
    "ok": true,
    "letti": 24,
-   "nuovi": 12,
+   "nuovi": 6,
    "errore": null
   },
   {
@@ -214,7 +214,7 @@
    "url": "https://www.euronews.com/rss",
    "ok": true,
    "letti": 50,
-   "nuovi": 12,
+   "nuovi": 9,
    "errore": null
   },
   {
@@ -222,7 +222,7 @@
    "url": "https://www.politico.eu/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 7,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -230,7 +230,7 @@
    "url": "https://www.middleeasteye.net/rss",
    "ok": true,
    "letti": 20,
-   "nuovi": 12,
+   "nuovi": 7,
    "errore": null
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://kyivindependent.com/news-archive/rss/",
    "ok": true,
    "letti": 15,
-   "nuovi": 4,
+   "nuovi": 5,
    "errore": null
   },
   {
@@ -254,7 +254,7 @@
    "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
    "ok": true,
    "letti": 20,
-   "nuovi": 20,
+   "nuovi": 19,
    "errore": null
   },
   {
@@ -262,7 +262,7 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "ok": true,
    "letti": 50,
-   "nuovi": 20,
+   "nuovi": 10,
    "errore": null
   },
   {
@@ -270,15 +270,15 @@
    "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
    "ok": true,
    "letti": 25,
-   "nuovi": 0,
+   "nuovi": 3,
    "errore": null
   },
   {
    "nome": "TASS",
    "url": "https://tass.com/rss/v2.xml",
    "ok": true,
-   "letti": 42,
-   "nuovi": 16,
+   "letti": 44,
+   "nuovi": 17,
    "errore": null
   },
   {
@@ -302,7 +302,7 @@
    "url": "https://www.aa.com.tr/en/rss/default?cat=world",
    "ok": true,
    "letti": 30,
-   "nuovi": 2,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -319,14 +319,14 @@
    "ok": false,
    "letti": 0,
    "nuovi": 0,
-   "errore": "HTTPError: HTTP Error 522: <none>"
+   "errore": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
    "nome": "Orinoco Tribune",
    "url": "https://orinocotribune.com/feed/",
    "ok": true,
    "letti": 12,
-   "nuovi": 1,
+   "nuovi": 2,
    "errore": null
   },
   {
@@ -382,7 +382,7 @@
    "url": "https://theintercept.com/feed/?lang=en",
    "ok": true,
    "letti": 20,
-   "nuovi": 3,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -438,7 +438,7 @@
    "url": "https://news.antiwar.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 0,
+   "nuovi": 7,
    "errore": null
   },
   {
@@ -446,7 +446,7 @@
    "url": "https://www.theamericanconservative.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -462,7 +462,7 @@
    "url": "https://pagineesteri.it/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -470,14 +470,14 @@
    "url": "https://www.lindipendente.online/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 4,
+   "nuovi": 0,
    "errore": null
   },
   {
    "nome": "L'AntiDiplomatico",
    "url": "https://www.lantidiplomatico.it/rss.php",
    "ok": true,
-   "letti": 113,
+   "letti": 118,
    "nuovi": 5,
    "errore": null
   }
