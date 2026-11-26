@@ -1,11 +1,11 @@
 {
- "aggiornato": 1795622532833,
+ "aggiornato": 1795652176916,
  "fonti": [
   {
    "nome": "ANSA",
    "url": "https://www.ansa.it/sito/notizie/mondo/mondo_rss.xml",
    "ok": true,
-   "letti": 33,
+   "letti": 43,
    "nuovi": 18,
    "errore": null
   },
@@ -14,7 +14,7 @@
    "url": "https://www.ansa.it/sito/ansait_rss.xml",
    "ok": true,
    "letti": 28,
-   "nuovi": 27,
+   "nuovi": 17,
    "errore": null
   },
   {
@@ -22,16 +22,16 @@
    "url": "https://www.rainews.it/rss/esteri",
    "ok": true,
    "letti": 41,
-   "nuovi": 10,
+   "nuovi": 3,
    "errore": null
   },
   {
    "nome": "la Repubblica",
    "url": "https://www.repubblica.it/rss/esteri/rss2.0.xml",
-   "ok": false,
-   "letti": 0,
-   "nuovi": 0,
-   "errore": "HTTPError: HTTP Error 403: Forbidden"
+   "ok": true,
+   "letti": 25,
+   "nuovi": 8,
+   "errore": null
   },
   {
    "nome": "Corriere della Sera",
@@ -54,7 +54,7 @@
    "url": "https://www.ilfattoquotidiano.it/feed/",
    "ok": true,
    "letti": 25,
-   "nuovi": 25,
+   "nuovi": 18,
    "errore": null
   },
   {
@@ -70,7 +70,7 @@
    "url": "https://www.agi.it/estero/rss",
    "ok": true,
    "letti": 20,
-   "nuovi": 6,
+   "nuovi": 5,
    "errore": null
   },
   {
@@ -78,7 +78,7 @@
    "url": "https://www.tgcom24.mediaset.it/rss/mondo.xml",
    "ok": true,
    "letti": 30,
-   "nuovi": 18,
+   "nuovi": 8,
    "errore": null
   },
   {
@@ -101,8 +101,8 @@
    "nome": "Fanpage",
    "url": "https://www.fanpage.it/feed/",
    "ok": true,
-   "letti": 39,
-   "nuovi": 39,
+   "letti": 40,
+   "nuovi": 40,
    "errore": null
   },
   {
@@ -110,7 +110,7 @@
    "url": "https://www.internazionale.it/sitemaps/rss.xml",
    "ok": true,
    "letti": 14,
-   "nuovi": 2,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -126,14 +126,14 @@
    "url": "https://www.editorialedomani.it/rss",
    "ok": true,
    "letti": 100,
-   "nuovi": 18,
+   "nuovi": 22,
    "errore": null
   },
   {
    "nome": "BBC News",
    "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
    "ok": true,
-   "letti": 28,
+   "letti": 32,
    "nuovi": 9,
    "errore": null
   },
@@ -142,7 +142,7 @@
    "url": "https://www.theguardian.com/world/rss",
    "ok": true,
    "letti": 45,
-   "nuovi": 25,
+   "nuovi": 18,
    "errore": null
   },
   {
@@ -150,15 +150,15 @@
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
    "ok": true,
    "letti": 58,
-   "nuovi": 11,
+   "nuovi": 7,
    "errore": null
   },
   {
    "nome": "Washington Post",
    "url": "https://feeds.washingtonpost.com/rss/world",
    "ok": true,
-   "letti": 14,
-   "nuovi": 5,
+   "letti": 16,
+   "nuovi": 6,
    "errore": null
   },
   {
@@ -166,7 +166,7 @@
    "url": "https://feeds.npr.org/1004/rss.xml",
    "ok": true,
    "letti": 10,
-   "nuovi": 5,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -182,7 +182,7 @@
    "url": "https://moxie.foxnews.com/google-publisher/world.xml",
    "ok": true,
    "letti": 25,
-   "nuovi": 2,
+   "nuovi": 3,
    "errore": null
   },
   {
@@ -198,7 +198,7 @@
    "url": "https://rss.dw.com/rdf/rss-en-all",
    "ok": true,
    "letti": 144,
-   "nuovi": 22,
+   "nuovi": 11,
    "errore": null
   },
   {
@@ -206,7 +206,7 @@
    "url": "https://www.france24.com/en/rss",
    "ok": true,
    "letti": 24,
-   "nuovi": 22,
+   "nuovi": 24,
    "errore": null
   },
   {
@@ -214,7 +214,7 @@
    "url": "https://www.euronews.com/rss",
    "ok": true,
    "letti": 50,
-   "nuovi": 50,
+   "nuovi": 21,
    "errore": null
   },
   {
@@ -222,7 +222,7 @@
    "url": "https://www.politico.eu/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 10,
+   "nuovi": 8,
    "errore": null
   },
   {
@@ -230,7 +230,7 @@
    "url": "https://www.middleeasteye.net/rss",
    "ok": true,
    "letti": 20,
-   "nuovi": 16,
+   "nuovi": 18,
    "errore": null
   },
   {
@@ -246,7 +246,7 @@
    "url": "https://kyivindependent.com/news-archive/rss/",
    "ok": true,
    "letti": 15,
-   "nuovi": 12,
+   "nuovi": 10,
    "errore": null
   },
   {
@@ -262,7 +262,7 @@
    "url": "https://www.scmp.com/rss/91/feed",
    "ok": true,
    "letti": 50,
-   "nuovi": 50,
+   "nuovi": 12,
    "errore": null
   },
   {
@@ -270,7 +270,7 @@
    "url": "https://www.abc.net.au/news/feed/2942460/rss.xml",
    "ok": true,
    "letti": 25,
-   "nuovi": 2,
+   "nuovi": 5,
    "errore": null
   },
   {
@@ -278,7 +278,7 @@
    "url": "https://tass.com/rss/v2.xml",
    "ok": true,
    "letti": 100,
-   "nuovi": 100,
+   "nuovi": 44,
    "errore": null
   },
   {
@@ -302,7 +302,7 @@
    "url": "https://www.aa.com.tr/en/rss/default?cat=world",
    "ok": true,
    "letti": 30,
-   "nuovi": 5,
+   "nuovi": 2,
    "errore": null
   },
   {
@@ -326,7 +326,7 @@
    "url": "https://orinocotribune.com/feed/",
    "ok": true,
    "letti": 12,
-   "nuovi": 2,
+   "nuovi": 4,
    "errore": null
   },
   {
@@ -342,7 +342,7 @@
    "url": "https://breakthroughnews.org/feed/",
    "ok": true,
    "letti": 8,
-   "nuovi": 0,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -366,7 +366,7 @@
    "url": "https://www.mintpressnews.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -374,7 +374,7 @@
    "url": "https://consortiumnews.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 2,
    "errore": null
   },
   {
@@ -382,7 +382,7 @@
    "url": "https://theintercept.com/feed/?lang=en",
    "ok": true,
    "letti": 20,
-   "nuovi": 2,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -390,7 +390,7 @@
    "url": "https://www.dropsitenews.com/feed",
    "ok": true,
    "letti": 20,
-   "nuovi": 0,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -398,7 +398,7 @@
    "url": "https://www.declassifieduk.org/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 0,
    "errore": null
   },
   {
@@ -412,17 +412,17 @@
   {
    "nome": "Democracy Now!",
    "url": "https://www.democracynow.org/democracynow.rss",
-   "ok": false,
-   "letti": 0,
-   "nuovi": 0,
-   "errore": "URLError: <urlopen error timed out>"
+   "ok": true,
+   "letti": 41,
+   "nuovi": 3,
+   "errore": null
   },
   {
    "nome": "Common Dreams",
    "url": "https://www.commondreams.org/feeds/feed.rss",
    "ok": true,
    "letti": 30,
-   "nuovi": 0,
+   "nuovi": 3,
    "errore": null
   },
   {
@@ -430,7 +430,7 @@
    "url": "https://responsiblestatecraft.org/feed/",
    "ok": true,
    "letti": 30,
-   "nuovi": 0,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -438,7 +438,7 @@
    "url": "https://news.antiwar.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 0,
+   "nuovi": 7,
    "errore": null
   },
   {
@@ -446,7 +446,7 @@
    "url": "https://www.theamericanconservative.com/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 1,
+   "nuovi": 2,
    "errore": null
   },
   {
@@ -454,7 +454,7 @@
    "url": "https://ilmanifesto.it/feed",
    "ok": true,
    "letti": 50,
-   "nuovi": 0,
+   "nuovi": 50,
    "errore": null
   },
   {
@@ -462,7 +462,7 @@
    "url": "https://pagineesteri.it/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 2,
+   "nuovi": 1,
    "errore": null
   },
   {
@@ -470,15 +470,15 @@
    "url": "https://www.lindipendente.online/feed/",
    "ok": true,
    "letti": 10,
-   "nuovi": 9,
+   "nuovi": 3,
    "errore": null
   },
   {
    "nome": "L'AntiDiplomatico",
    "url": "https://www.lantidiplomatico.it/rss.php",
    "ok": true,
-   "letti": 113,
-   "nuovi": 15,
+   "letti": 114,
+   "nuovi": 3,
    "errore": null
   }
  ]
